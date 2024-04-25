@@ -1,0 +1,7 @@
+Flask
+Pillow
+numpy
+torch
+opencv-python
+transformers
+torchvision
